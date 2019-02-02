@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JN&#39;s Web Page</title>
+    <link>https://williamjnzhang.github.io/post/</link>
+    <description>Recent content in Posts on JN&#39;s Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Sun, 03 Feb 2019 00:06:01 +0800</lastBuildDate>
+    
+	<atom:link href="https://williamjnzhang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helloworld</title>
+      <link>https://williamjnzhang.github.io/post/helloworld/</link>
+      <pubDate>Sun, 03 Feb 2019 00:06:01 +0800</pubDate>
+      
+      <guid>https://williamjnzhang.github.io/post/helloworld/</guid>
+      <description>Hello World This is the First Page.</description>
+    </item>
+    
+  </channel>
+</rss>
